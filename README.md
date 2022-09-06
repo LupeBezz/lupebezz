@@ -6,11 +6,11 @@ Web development is a great opportunity to learn lots of exciting technical skill
 
 I am currently searching for a new work environment in Berlin that challenges me and provides a learning platform to further improve my skills.  These are the technologies I have been using the most:
 
-HTML | CSS | Javascript
-React + Redux | Vue | jQuery
-Node.js | Express
-Postgre SQL
-Aws | Heroku | GitHub
+HTML | CSS | Javascript <br />
+React + Redux | Vue | jQuery <br />
+Node.js | Express <br />
+Postgre SQL <br />
+Aws | Heroku | GitHub <br />
 
 <!--
 **LupeBezz/lupebezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
