@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##I am a Full Stack Web Developer with a background in graphic design and architecture.
+## I am a Full Stack Web Developer with a background in graphic design and architecture.
 
 Web development is a great opportunity to learn lots of exciting technical skills and merge them with my design experience, resulting in a unique blend that takes advantage of all my abilities.
 
