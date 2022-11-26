@@ -6,15 +6,11 @@ Web development gave me a great opportunity to learn lots of exciting technical 
 
 These are the technologies I have been using the most:
 
-HTML | CSS | Javascript <br />
+HTML | CSS | Javascript | Typescript <br />
 React + Redux | Vue | jQuery <br />
 Node.js | Express <br />
 Postgre SQL <br />
-Aws | Heroku | GitHub <br />
-
-I am currently learning:
-
-Typescript | Jest
+Git | GitHub <br />
 
 <!--
 **LupeBezz/lupebezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
